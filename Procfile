@@ -1,1 +1,1 @@
-web: gunicorn license_server:app --bind 0.0.0.0:$PORT
+web: gunicorn licence-server:app --bind 0.0.0.0:$PORT
