@@ -1,4 +1,5 @@
-python-3.11.9
-flask>=3.0.0
-gunicorn>=21.2.0
-requests
+flask==3.0.3
+flask-limiter==3.7.0
+cryptography==42.0.8
+requests==2.32.3
+gunicorn==22.0.0
